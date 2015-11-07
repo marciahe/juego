@@ -1,23 +1,23 @@
-Juego de Piedra, papel o tijera con JS
+Juego de Piedra, papel o tijera con JS<br><br>
 
 
 
-Funcion para generar un número random:
+Funcion para generar un número random:<br>
 
-function getRandomInt(min,max){
-	return Math.floor(Math.random()*(max-min+1)+min)
-}
-
-
-
-Esto crea un número random entre el 1 y el 3:
-
-Math.floor(Math.random() * 3) + 1;
+function getRandomInt(min,max){<br>
+	return Math.floor(Math.random()*(max-min+1)+min)<br>
+}<br>
 
 
 
-Operadores lógicos:
+Esto crea un número random entre el 1 y el 3:<br>
 
-and: &&
-or: ||
-not: !
+Math.floor(Math.random() * 3) + 1;<br>
+
+
+
+Operadores lógicos:<br>
+
+and: &&<br>
+or: ||<br>
+not: !<br>
