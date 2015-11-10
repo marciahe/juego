@@ -5,7 +5,7 @@ Juego de Piedra, papel o tijera con JS<br><br>
 Funcion para generar un número random:<br>
 
 function getRandomInt(min,max){<br>
-	return Math.floor(Math.random()*(max-min+1)+min)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;return Math.floor(Math.random()*(max-min+1)+min)<br>
 }<br>
 
 
